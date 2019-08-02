@@ -16,8 +16,12 @@ serem entradas no sistema. Após a entrada de todas as expressões que o usuári
 desejar informar, o programa deverá apresentar a árvore gerada para cada
 expressão e o resultado de cada expressão de entrada.                   OK
 
-As expressões poderão conter operadores binário e unários e os operandos são
-valores inteiros.                                                       NOK
+Compilar:
+make -B
+
+Executar:
+./calculadora
+
 */
 
 #include <stdio.h>
